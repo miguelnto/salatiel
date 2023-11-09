@@ -1,5 +1,9 @@
 # Salatiel
 
+## A SER FEITO
+
+- [ ] O comando `/carregar`só pode ser usado para piadas. É necessário atualizar para que ele também sirva para canais e cargos.
+
 ## Comandos
 
 ### GIFS
@@ -137,7 +141,7 @@ Escreva da seguinte forma: Porque a galinha atravessou a rua?\nPorque?\nPorque e
 
 - **arquivo** - O arquivo que você quer obter. Pode ser canais, cargos ou piadas. De acordo com o arquivo escolhido, o bot enviará um arquivo txt com a database inteira dos canais, cargos ou piadas.
 
-#### `/carregar` - Carrega a database de cargos vinda de um arquivo txt.
+#### `/carregar` - Carrega a database de piadas vinda de um arquivo txt.
 
 *Não tem paramêtros. Para usar esse comando, envie um arquivo txt com as piadas e em seguida use `/carregar`*.
 
