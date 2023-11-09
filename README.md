@@ -2,9 +2,17 @@
 
 ## A SER FEITO
 
-- [ ] O comando `/carregar`só pode ser usado para piadas. É necessário atualizar para que ele também sirva para canais e cargos.
+- [ ] O comando `/carregar` só pode ser usado para piadas. É necessário atualizar para que ele também sirva para canais e cargos.
 
 ## Comandos
+
+[1. GIFS](#gifs)
+[2. Inteligência artificial](#inteligência-artificial)
+[3. Gerenciamento da Database](#gerenciamento-da-database)
+[4. Miscelânia](#miscelânia)
+[5. Piadas](#piadas)
+[6. Tickets](#tickets)
+[7. Outros](#outros)
 
 ### GIFS
 
